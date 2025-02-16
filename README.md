@@ -28,6 +28,7 @@ Lolify is a user-friendly and interactive music streaming platform designed to p
 ---
 
 ## Introduction
+**Note**: This project is a prototype and does not have a running server or backend functionality. It is designed for demonstration purposes only, and all data is stored locally within the browser.
 
 Lolify is developed as part of a Human-Computer Interaction (HCI) project to address common usability issues in existing music streaming platforms. The goal is to enhance the listening experience by offering intuitive navigation, personalized recommendations, and rich music analytics.
 
