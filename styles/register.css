@@ -1,0 +1,77 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  /* background: linear-gradient(to bottom right, #e0eafc, #cfdef3); */
+  background: #c0d6df;
+  background-image: url("/images/KOTAK_ BACKGROUND KIRI.png");
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+  /* border: 1px solid black; */
+}
+
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  /* background-image: url("/images/KOTAK_ BACKGROUND KIRI.png"); */
+  text-align: center;
+  align-items: center;
+  border-radius: 20px;
+  width: 28vw;
+  height: 70vh;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.signup-form h2 {
+  font-size: 2.4em;
+}
+
+.signup-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup-form input {
+  background: #c0d6df;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  margin: auto;
+  margin: 10px;
+  width: 80%;
+  border-radius: 10px;
+  text-align: left;
+
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.signup-form button {
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background: #c0d6df;
+  color: black;
+  font-size: 1.3em;
+  font-weight: 500;
+  cursor: pointer;
+}
+.logo {
+  margin-top: 20px;
+}
+.images {
+  /* width: 20vw; */
+  height: 8vh;
+}
